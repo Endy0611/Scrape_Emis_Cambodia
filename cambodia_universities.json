@@ -1,0 +1,511 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_universities_in_Cambodia",
+  "scraped_at": "2026-04-13 22:08:25",
+  "total": 63,
+  "universities": [
+    {
+      "name": "Royal Academy of Cambodia",
+      "abbreviation": "RAC",
+      "type": "Public",
+      "established": "1965",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.rac.gov.kh/"
+    },
+    {
+      "name": "Royal School of Administration",
+      "abbreviation": "ERA",
+      "type": "Public",
+      "established": "1956",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://era.gov.kh/"
+    },
+    {
+      "name": "Cambodian Agricultural Research and Development Institute",
+      "abbreviation": "CARDI",
+      "type": "Public",
+      "established": "",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.cardi.org.kh/?page=&lg=en"
+    },
+    {
+      "name": "Institute of Technology of Cambodia",
+      "abbreviation": "ITC",
+      "type": "Public",
+      "established": "1964",
+      "location": "Phnom Penh,CambodiaTboung Khmum Province",
+      "website": "https://www.itc.edu.kh/"
+    },
+    {
+      "name": "Chea Sim University of Kamchay Mear (formerly Maharishi Vedic University)",
+      "abbreviation": "CSUK",
+      "type": "Public",
+      "established": "1992",
+      "location": "Prey Veng ProvinceKamchay Mear District",
+      "website": "http://csuk.edu.kh/"
+    },
+    {
+      "name": "National Institute of Education (Cambodia)",
+      "abbreviation": "NIE",
+      "type": "Public",
+      "established": "1991",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.nie.edu.kh/"
+    },
+    {
+      "name": "National Polytechnic Institute of Cambodia",
+      "abbreviation": "NPIC",
+      "type": "Public",
+      "established": "2005",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://npic.edu.kh/en/"
+    },
+    {
+      "name": "National Technical Training Institute",
+      "abbreviation": "NTTI",
+      "type": "Public",
+      "established": "1999",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.ntti.edu.kh/"
+    },
+    {
+      "name": "National University of Management",
+      "abbreviation": "NUM",
+      "type": "Public",
+      "established": "1983",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://num.edu.kh/web/web/num/home"
+    },
+    {
+      "name": "Prek Leap national institute of agriculture",
+      "abbreviation": "PNIA",
+      "type": "Public",
+      "established": "1948",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://nia.edu.kh/"
+    },
+    {
+      "name": "Royal University of Agriculture",
+      "abbreviation": "RUA",
+      "type": "Public",
+      "established": "1964",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.rua.edu.kh/"
+    },
+    {
+      "name": "Royal University of Fine Arts",
+      "abbreviation": "RUFA",
+      "type": "Public",
+      "established": "1917",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.rufa.edu.kh/"
+    },
+    {
+      "name": "Royal University of Law and Economics",
+      "abbreviation": "RULE",
+      "type": "Public",
+      "established": "1948",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://rule.edu.kh/"
+    },
+    {
+      "name": "Royal University of Phnom Penh",
+      "abbreviation": "RUPP",
+      "type": "Public",
+      "established": "1960 (Jan 13)[1]",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.rupp.edu.kh/"
+    },
+    {
+      "name": "Svay Rieng University",
+      "abbreviation": "SRU",
+      "type": "Public",
+      "established": "2006 (Jan 25)[2]",
+      "location": "Svay Rieng ProvinceSvay Rieng",
+      "website": "https://sru.edu.kh/"
+    },
+    {
+      "name": "University of Health Sciences",
+      "abbreviation": "UHS",
+      "type": "Public",
+      "established": "1946",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://uhs.edu.kh/"
+    },
+    {
+      "name": "Meanchey University",
+      "abbreviation": "MUC",
+      "type": "Public",
+      "established": "2007 (Feb 20)[3]",
+      "location": "Banteay Meanchey ProvinceSisophon",
+      "website": ""
+    },
+    {
+      "name": "University of Battambang",
+      "abbreviation": "UBB",
+      "type": "Public",
+      "established": "2007",
+      "location": "Battambang ProvinceBattambang",
+      "website": "http://nubb.edu.kh/en/"
+    },
+    {
+      "name": "National Institute of Business",
+      "abbreviation": "NIB",
+      "type": "Public",
+      "established": "1979",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.nib.edu.kh/"
+    },
+    {
+      "name": "Preah Kossomak Polytechnic Institute",
+      "abbreviation": "PPI",
+      "type": "Public",
+      "established": "1965 [2001]",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://ppiedu.com/"
+    },
+    {
+      "name": "Industrial Technical Institute",
+      "abbreviation": "ITI",
+      "type": "Public",
+      "established": "1928",
+      "location": "Phnom Penh,Cambodia",
+      "website": ""
+    },
+    {
+      "name": "Cambodia Academy of Digital Technology (Formerly NIPTIC)",
+      "abbreviation": "CADT",
+      "type": "Public",
+      "established": "2020",
+      "location": "Phnom Penh, Cambodia",
+      "website": "https://www.cadt.edu.kh/"
+    },
+    {
+      "name": "American University of Phnom Penh",
+      "abbreviation": "AUPP",
+      "type": "Private",
+      "established": "2013",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.aupp.edu.kh/"
+    },
+    {
+      "name": "City University, Cambodia",
+      "abbreviation": "CU",
+      "type": "Private",
+      "established": "2005",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://cityuniversity.education/"
+    },
+    {
+      "name": "Phnom Penh International University",
+      "abbreviation": "PPIU",
+      "type": "Private",
+      "established": "2002[4][2006]",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.ppiu.edu.kh/public/"
+    },
+    {
+      "name": "Dewey International University",
+      "abbreviation": "DIU",
+      "type": "Private",
+      "established": "2010",
+      "location": "Battambang,Cambodia",
+      "website": "http://diu.edu.kh/diu/"
+    },
+    {
+      "name": "Beltei International University",
+      "abbreviation": "BELTEI",
+      "type": "Private",
+      "established": "2012 (Sep 6)[5]",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.beltei.edu.kh/biue/index.php"
+    },
+    {
+      "name": "Build Bright University",
+      "abbreviation": "BBU",
+      "type": "Private",
+      "established": "2000",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.bbu.edu.kh/"
+    },
+    {
+      "name": "IIC University of Technology",
+      "abbreviation": "IIC",
+      "type": "Private",
+      "established": "1999",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.iic.edu.kh/"
+    },
+    {
+      "name": "Paññāsāstra University of Cambodia",
+      "abbreviation": "PUC",
+      "type": "Private",
+      "established": "1997",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.puc.edu.kh/"
+    },
+    {
+      "name": "Norton University",
+      "abbreviation": "NU",
+      "type": "Private",
+      "established": "1996",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.norton-u.com/"
+    },
+    {
+      "name": "University of Management and Economics",
+      "abbreviation": "UME",
+      "type": "Private",
+      "established": "2000 (Jul 17)[6]",
+      "location": "Main Campus:Battambang ProvinceBranch Campuses:Pursat,Kampot,Sihanoukville,Kampong Cham,Banteay Meanchey,Koh Kong,Kratie",
+      "website": "https://www.ume.edu.kh/"
+    },
+    {
+      "name": "International University",
+      "abbreviation": "IU",
+      "type": "Private",
+      "established": "2002 (Sep)",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.iu.edu.kh/"
+    },
+    {
+      "name": "Cambodian University of Specialties",
+      "abbreviation": "CUS",
+      "type": "Private",
+      "established": "2002",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://cus.edu.kh/"
+    },
+    {
+      "name": "Chamroeun University of Poly-Technology",
+      "abbreviation": "CUP",
+      "type": "Private",
+      "established": "2002",
+      "location": "Phnom Penh,Cambodia",
+      "website": ""
+    },
+    {
+      "name": "Economics and Finance Institute",
+      "abbreviation": "EFI",
+      "type": "Private",
+      "established": "2002",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://efi.mef.gov.kh/"
+    },
+    {
+      "name": "University of Cambodia",
+      "abbreviation": "UC",
+      "type": "Private",
+      "established": "2003",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://uc.edu.kh/"
+    },
+    {
+      "name": "Asia Euro University",
+      "abbreviation": "AEU",
+      "type": "Private",
+      "established": "2003",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.aeu.edu.kh/"
+    },
+    {
+      "name": "Western University",
+      "abbreviation": "WU",
+      "type": "Private",
+      "established": "2003 (17 Nov)[7]",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.western.edu.kh/"
+    },
+    {
+      "name": "Khemarak University",
+      "abbreviation": "KU",
+      "type": "Private",
+      "established": "2004",
+      "location": "Phnom Penh,Cambodia",
+      "website": ""
+    },
+    {
+      "name": "Angkor University",
+      "abbreviation": "AU",
+      "type": "Private",
+      "established": "2004 (Jul 23)[8]",
+      "location": "Siem Reap, Cambodia",
+      "website": "https://www.angkor.edu.kh/"
+    },
+    {
+      "name": "Human Resources University",
+      "abbreviation": "HRU",
+      "type": "Private",
+      "established": "2005",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.hru.edu.kh/en/"
+    },
+    {
+      "name": "University of Southeast Asia",
+      "abbreviation": "USEA",
+      "type": "Private",
+      "established": "2006 (July 7)[9]",
+      "location": "Siem Reap, Cambodia",
+      "website": "https://www.hru.edu.kh/en/"
+    },
+    {
+      "name": "University of Puthisastra",
+      "abbreviation": "UP",
+      "type": "Private",
+      "established": "2000",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.puthisastra.edu.kh/"
+    },
+    {
+      "name": "Chenla University",
+      "abbreviation": "CLU",
+      "type": "Private",
+      "established": "2007",
+      "location": "Phnom Penh,Cambodia",
+      "website": ""
+    },
+    {
+      "name": "Limkokwing University of Creative Technology",
+      "abbreviation": "LKU",
+      "type": "Private",
+      "established": "2008",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.limkokwing.net/"
+    },
+    {
+      "name": "Angkor Khemara University",
+      "abbreviation": "AKU",
+      "type": "Private",
+      "established": "2008",
+      "location": "Takéo, Pursat, Kampong Speu, Kampot",
+      "website": ""
+    },
+    {
+      "name": "Khmer University of Technology and Management",
+      "abbreviation": "KUTM",
+      "type": "Private",
+      "established": "2008",
+      "location": "Sihanoukville, Cambodia",
+      "website": ""
+    },
+    {
+      "name": "Panha Chiet University",
+      "abbreviation": "PCU",
+      "type": "Private",
+      "established": "2009",
+      "location": "Phnom Penh,Cambodia",
+      "website": ""
+    },
+    {
+      "name": "East Asia Management University",
+      "abbreviation": "EAMU",
+      "type": "Private",
+      "established": "2018",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://www.eamu.edu.kh/"
+    },
+    {
+      "name": "Phnom Penh Institute of Technology",
+      "abbreviation": "PPIT",
+      "type": "Private",
+      "established": "2012",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.ppiu.edu.kh/public/"
+    },
+    {
+      "name": "CamEd Business School",
+      "abbreviation": "CamEd",
+      "type": "Private",
+      "established": "2000",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://cam-ed.com/"
+    },
+    {
+      "name": "Saint Paul Institute",
+      "abbreviation": "SPI",
+      "type": "Private",
+      "established": "2009",
+      "location": "Takéo Province,Cambodia",
+      "website": "https://spi.edu.kh/"
+    },
+    {
+      "name": "Cambodian Mekong University",
+      "abbreviation": "CMU",
+      "type": "Private",
+      "established": "2003",
+      "location": "Phnom Penh,Cambodia",
+      "website": ""
+    },
+    {
+      "name": "Vanda Institute",
+      "abbreviation": "VI",
+      "type": "Private",
+      "established": "2001",
+      "location": "Phnom Penh,Cambodia",
+      "website": "http://vanda.edu.kh/"
+    },
+    {
+      "name": "Paragon International University",
+      "abbreviation": "Paragon.U",
+      "type": "Private",
+      "established": "2010",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://paragoniu.edu.kh/"
+    },
+    {
+      "name": "Phnom Penh International Institute of the Arts",
+      "abbreviation": "PPIIA",
+      "type": "Private",
+      "established": "2013",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://ppiia.edu.kh/"
+    },
+    {
+      "name": "Life University",
+      "abbreviation": "LU",
+      "type": "Private",
+      "established": "2007[10]",
+      "location": "Sihanoukville,Cambodia",
+      "website": "https://www.lifeun.edu.kh/"
+    },
+    {
+      "name": "Institute of Professional Accounting",
+      "abbreviation": "IPA",
+      "type": "Private",
+      "established": "1983,[11]2012 (Jan 1, Siem Reap)[12]",
+      "location": "Phnom Penh, Siem Reap",
+      "website": ""
+    },
+    {
+      "name": "Kirirom Institute of Technology",
+      "abbreviation": "KIT[13]",
+      "type": "Private",
+      "established": "2014",
+      "location": "Kirirom National Park,Kampong Speu,Cambodia",
+      "website": "https://kit.edu.kh/"
+    },
+    {
+      "name": "ACLEDA Institute of Business",
+      "abbreviation": "AIB",
+      "type": "Private",
+      "established": "2016",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://acleda-aib.edu.kh/tc/eng/"
+    },
+    {
+      "name": "University of Economics and Finance",
+      "abbreviation": "UEF",
+      "type": "Private",
+      "established": "2011",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://www.uef.edu.kh/"
+    },
+    {
+      "name": "De Montfort University Cambodia",
+      "abbreviation": "DMUC",
+      "type": "Private",
+      "established": "2023",
+      "location": "Phnom Penh,Cambodia",
+      "website": "https://dmuc.edu.kh/"
+    }
+  ]
+}
