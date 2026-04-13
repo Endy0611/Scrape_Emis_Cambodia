@@ -1,7 +1,7 @@
 # 🚀 Scrape Emis Cambodia
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python">>
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python">
 </p>
 
 <p align="center">
